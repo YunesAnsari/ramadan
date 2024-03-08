@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./img/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgb(218, 218, 218); */
+}
+
+.container {
+    background-color: white !important;
+    opacity: 0.9;
+}
+
+.container-fluid {
+    width: 100% !important;
+}
+
+.calculationOfAction img {
+    height: 130px !important;
+}
+
+.calculationOfAction {
+    background-color: rgb(255, 220, 122) !important;
+}
